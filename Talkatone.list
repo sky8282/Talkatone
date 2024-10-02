@@ -11,17 +11,17 @@ DOMAIN-SUFFIX,appier.net
 DOMAIN-SUFFIX,appiersig.com
 
 # 让登录更容易
-DOMAIN-SUFFIX,mobilefuse.com
-DOMAIN-SUFFIX,inmobi.com
-DOMAIN-SUFFIX,crashlytics.com
-DOMAIN-SUFFIX,talkatone.com
-DOMAIN-SUFFIX,kochava.com
+#DOMAIN-SUFFIX,mobilefuse.com
+#DOMAIN-SUFFIX,inmobi.com
+#DOMAIN-SUFFIX,crashlytics.com
+#DOMAIN-SUFFIX,talkatone.com
+#DOMAIN-SUFFIX,kochava.com
 # 这个域名最好走代理，我这边直连已超时
 #DOMAIN-SUFFIX,ip-api.com
 #DOMAIN-SUFFIX,tktn.be,✈️ 节点选择
-#DOMAIN-SUFFIX,cohere.com
-#DOMAIN-SUFFIX,agkn.com
-#DOMAIN-SUFFIX,tktn.at
+DOMAIN-SUFFIX,cohere.com
+DOMAIN-SUFFIX,agkn.com
+DOMAIN-SUFFIX,tktn.at
 IP-CIDR,50.117.27.0/24,no-resolve
 IP-CIDR,69.46.75.0/24,no-resolve
 IP-CIDR,205.164.56.0/24,no-resolve
